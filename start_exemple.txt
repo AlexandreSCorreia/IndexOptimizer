@@ -1,0 +1,22 @@
+@echo off
+REM ===================================================
+REM 🔧 IndexOptimizer - Execução da Otimização de Índices
+REM Escolha uma das opções abaixo: Geração de Script ou Execução Direta
+REM ===================================================
+
+REM -----------------------------------------------
+REM ✅ OPÇÃO 1: GERAÇÃO DO SCRIPT SQL (arquivo: indices.sql)
+REM Apenas gera o script com os comandos de índices e manutenção
+REM ATIVO por padrão
+IndexOptimizer.exe -s "localhost" -d "MinhaBase" -u "meu_usuario" -p "minha_senha" -r s
+REM -----------------------------------------------
+
+
+REM -----------------------------------------------
+REM ⚙️ OPÇÃO 2: EXECUÇÃO DIRETA NO BANCO (gera log em txt)
+REM Executa os scripts diretamente na base e salva o log
+REM Descomente a linha abaixo para usar essa opção
+:: IndexOptimizer.exe --server "localhost" --database "MinhaBase" --username "meu_usuario" --password "minha_senha" --result i
+REM -----------------------------------------------
+
+pause

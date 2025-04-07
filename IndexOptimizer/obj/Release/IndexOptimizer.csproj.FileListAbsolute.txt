@@ -1,0 +1,11 @@
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Release\IndexOptimizer.exe.config
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Release\IndexOptimizer.exe.manifest
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Release\IndexOptimizer.application
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Release\IndexOptimizer.exe
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Release\IndexOptimizer.pdb
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Release\IndexOptimizer.csproj.AssemblyReference.cache
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Release\IndexOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Release\IndexOptimizer.exe.manifest
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Release\IndexOptimizer.application
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Release\IndexOptimizer.exe
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Release\IndexOptimizer.pdb

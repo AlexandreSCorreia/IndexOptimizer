@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\IndexOptimizer\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.exe.config
+C:\Users\User\Desktop\IndexOptimizer\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.exe
+C:\Users\User\Desktop\IndexOptimizer\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.pdb
+C:\Users\User\Desktop\IndexOptimizer\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IndexOptimizer\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IndexOptimizer\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.exe
+C:\Users\User\Desktop\IndexOptimizer\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.pdb
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.exe.config
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.exe
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.pdb
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.csproj.AssemblyReference.cache
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.exe
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.pdb
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.exe.manifest
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\bin\Debug\IndexOptimizer.application
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.exe.manifest
+C:\Users\User\3D Objects\IndexOptimizer\IndexOptimizer\obj\Debug\IndexOptimizer.application
